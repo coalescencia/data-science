@@ -2,3 +2,8 @@
 .Rhistory
 .RData
 .Ruserdata
+scrapy/
+*.csv
+proyectos-R/vuelos/data/
+proyectos-R/vuelos/downloads/
+proyectos-R/vuelos/*.csv
